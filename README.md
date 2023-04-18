@@ -1,4 +1,4 @@
 # College_Algebra
-easy college algebra using python
+easy college algebra with python
 
 open it with "Google Colaboratory"
